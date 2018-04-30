@@ -2,6 +2,7 @@ Repository for a game project. Here the Kong game was born.
 
 =========
 
-Developers
+Two Developers
  - Antonio Raian
  - Daniel Oliveira
+	
